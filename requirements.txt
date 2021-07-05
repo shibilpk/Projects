@@ -1,0 +1,14 @@
+asgiref==3.4.1
+Django==3.2.5
+django-model-utils==4.1.1
+django-versatileimagefield==2.1
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.7.1
+Pillow==8.3.0
+psycopg2-binary==2.9.1
+PyJWT==2.1.0
+python-magic==0.4.24
+python-magic-bin==0.4.14
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.1
